@@ -28,7 +28,7 @@ $(function () {
   });
   // variables to include current date and time
   function updateTime() {
-    var timeDisplay = dayjs().format("MMM DD, YYYY [at] hh:mm:ss a");
+    var timeDisplay = dayjs().format("dddd, MMM DD, YYYY [at] hh:mm:ss a");
     $("#currentDay").text(timeDisplay);
   }
   updateTime();
