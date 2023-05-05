@@ -7,7 +7,7 @@ This challenge was completed to create a functioning work day calendar using thi
 ## Link to application
 
 ## Screenshot
-<img src="">
+<img src="Assets/images/screenshot-workday-scheduler.png">
 
 ## Usage 
 To use this assignment, enter an event next to the time slot and when you click on the save button, it will save the information into the local storage.
