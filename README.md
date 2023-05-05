@@ -2,7 +2,7 @@
 Web APIs Code Quiz
 
 ## Description 
-This challenge was completed to create a functioning work day calendar using third party APIs. It was created to allow user to add important events at each hour of their business day. The thrid party APIs used are bootstrap, day.js, and jQuery.
+This challenge was completed to create a functioning work day calendar using third party APIs. It was created to allow user to add important events at each hour of their business day. The third party APIs used are bootstrap, day.js, and jQuery.
 
 ## Link to application
 https://gioq89.github.io/Challenge-5-Third-Party-APIs-Work-Day-Calendar/
